@@ -1,3 +1,1 @@
-# app_monitoreo
-
-A new Flutter project.
+una app que funciona para monitorear niveles de ruido equivalente 
